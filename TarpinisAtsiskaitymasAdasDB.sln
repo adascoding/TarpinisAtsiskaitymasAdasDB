@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarpinisAtsiskaitymasAdasDB", "TarpinisAtsiskaitymasAdasDB\TarpinisAtsiskaitymasAdasDB.csproj", "{3AECA929-66DA-4C37-AFBD-09836571847A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{301F93B4-FB0A-4EBE-9EB3-E9A41FDD9ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AECA929-66DA-4C37-AFBD-09836571847A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AECA929-66DA-4C37-AFBD-09836571847A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AECA929-66DA-4C37-AFBD-09836571847A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AECA929-66DA-4C37-AFBD-09836571847A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301F93B4-FB0A-4EBE-9EB3-E9A41FDD9ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301F93B4-FB0A-4EBE-9EB3-E9A41FDD9ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301F93B4-FB0A-4EBE-9EB3-E9A41FDD9ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301F93B4-FB0A-4EBE-9EB3-E9A41FDD9ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD77B49-CFFA-411D-A744-107789EEA88C}
+	EndGlobalSection
+EndGlobal
